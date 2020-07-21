@@ -1,8 +1,7 @@
 # Disaster Response Pipeline Project
 
 ### Project Overview:
-
-
+This web app was created as a part of the Udacity data science Nano degree program. It takes disaster data from Figure Eight and builds a natural language machine learning model to classify disaster messages. The web app where an emergency worker can input a new message and get classification results in several categories.
 
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
